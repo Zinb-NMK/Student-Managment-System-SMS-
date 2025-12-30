@@ -30,7 +30,7 @@ This project demonstrates strong fundamentals in **backend development, frontend
 
 ## 📁 Project Architecture
 
-![Project Architecture](Student_Management_System/arcstr.png)
+![Project Architecture](https://raw.githubusercontent.com/Zinb-NMK/Student-Managment-System-SMS-/main/arcstr.png)
 
 ---
 

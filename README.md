@@ -99,6 +99,15 @@ git clone https://github.com/your-username/Student-Management-System.git
 8. Open in your browser:
       http://127.0.0.1:8000/
 
+## ▶️ Outputs
+
+---
+
+![Dashboard](https://github.com/Zinb-NMK/Student-Managment-System-SMS-/blob/main/Dashboard.png)
+![Adding a Student](https://github.com/Zinb-NMK/Student-Managment-System-SMS-/blob/main/Add%20Student.png)
+![Updating a Student](https://github.com/Zinb-NMK/Student-Managment-System-SMS-/blob/main/Update%20Student.png)
+![Student Information](https://github.com/Zinb-NMK/Student-Managment-System-SMS-/blob/main/Info%20Pic.png)
+
 
 ---
 
